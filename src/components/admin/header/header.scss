@@ -1,0 +1,21 @@
+input {
+    width: 15rem;
+    height: 2.5rem;
+    text-align: center;
+    font-size: 1rem;
+}
+.nav {
+    display: flex;
+    list-style: none;
+    height: 10vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav li {
+    text-decoration: none;
+    padding: 14px 12px;
+    text-align: center;
+    border: 1px solid #ccc;
+    width:  100%;
+}
